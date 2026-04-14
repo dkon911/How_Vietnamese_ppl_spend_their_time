@@ -1,0 +1,5503 @@
+{
+  "1_1_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 340,
+      "avg_start": 345
+    },
+    {
+      "slot": "Morning",
+      "duration": 7670,
+      "avg_start": 562
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 4820,
+      "avg_start": 897
+    },
+    {
+      "slot": "Evening",
+      "duration": 5790,
+      "avg_start": 1150
+    }
+  ],
+  "1_1_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 700,
+      "avg_start": 594
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 850,
+      "avg_start": 863
+    },
+    {
+      "slot": "Evening",
+      "duration": 2060,
+      "avg_start": 1263
+    }
+  ],
+  "1_1_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 540,
+      "avg_start": 525
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 260,
+      "avg_start": 828
+    },
+    {
+      "slot": "Evening",
+      "duration": 1840,
+      "avg_start": 1267
+    }
+  ],
+  "1_1_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 190,
+      "avg_start": 327
+    },
+    {
+      "slot": "Morning",
+      "duration": 850,
+      "avg_start": 548
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 910,
+      "avg_start": 947
+    },
+    {
+      "slot": "Evening",
+      "duration": 7740,
+      "avg_start": 1194
+    }
+  ],
+  "1_10_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 150,
+      "avg_start": 300
+    },
+    {
+      "slot": "Morning",
+      "duration": 420,
+      "avg_start": 594
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 520,
+      "avg_start": 834
+    },
+    {
+      "slot": "Evening",
+      "duration": 830,
+      "avg_start": 1148
+    }
+  ],
+  "1_10_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 180,
+      "avg_start": 510
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 160,
+      "avg_start": 887
+    },
+    {
+      "slot": "Evening",
+      "duration": 120,
+      "avg_start": 1160
+    }
+  ],
+  "1_10_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 290,
+      "avg_start": 515
+    },
+    {
+      "slot": "Evening",
+      "duration": 400,
+      "avg_start": 1205
+    }
+  ],
+  "1_14_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 360,
+      "avg_start": 338
+    },
+    {
+      "slot": "Morning",
+      "duration": 2190,
+      "avg_start": 579
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1820,
+      "avg_start": 909
+    },
+    {
+      "slot": "Evening",
+      "duration": 1420,
+      "avg_start": 1168
+    }
+  ],
+  "1_14_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 310,
+      "avg_start": 593
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 490,
+      "avg_start": 956
+    },
+    {
+      "slot": "Evening",
+      "duration": 420,
+      "avg_start": 1160
+    }
+  ],
+  "1_14_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 70,
+      "avg_start": 530
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 50,
+      "avg_start": 910
+    },
+    {
+      "slot": "Evening",
+      "duration": 200,
+      "avg_start": 1220
+    }
+  ],
+  "1_14_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 530,
+      "avg_start": 585
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 320,
+      "avg_start": 948
+    },
+    {
+      "slot": "Evening",
+      "duration": 1830,
+      "avg_start": 1183
+    }
+  ],
+  "1_15_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 180,
+      "avg_start": 340
+    },
+    {
+      "slot": "Morning",
+      "duration": 3330,
+      "avg_start": 574
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2210,
+      "avg_start": 917
+    },
+    {
+      "slot": "Evening",
+      "duration": 1840,
+      "avg_start": 1131
+    }
+  ],
+  "1_15_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 90,
+      "avg_start": 270
+    },
+    {
+      "slot": "Morning",
+      "duration": 360,
+      "avg_start": 510
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 280,
+      "avg_start": 926
+    },
+    {
+      "slot": "Evening",
+      "duration": 290,
+      "avg_start": 1220
+    }
+  ],
+  "1_15_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 150,
+      "avg_start": 535
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 80,
+      "avg_start": 956
+    },
+    {
+      "slot": "Evening",
+      "duration": 710,
+      "avg_start": 1238
+    }
+  ],
+  "1_15_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 20,
+      "avg_start": 350
+    },
+    {
+      "slot": "Morning",
+      "duration": 360,
+      "avg_start": 578
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 140,
+      "avg_start": 902
+    },
+    {
+      "slot": "Evening",
+      "duration": 1930,
+      "avg_start": 1172
+    }
+  ],
+  "1_17_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 700,
+      "avg_start": 314
+    },
+    {
+      "slot": "Morning",
+      "duration": 1970,
+      "avg_start": 594
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1010,
+      "avg_start": 943
+    },
+    {
+      "slot": "Evening",
+      "duration": 1390,
+      "avg_start": 1159
+    }
+  ],
+  "1_17_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 190,
+      "avg_start": 860
+    },
+    {
+      "slot": "Evening",
+      "duration": 510,
+      "avg_start": 1155
+    }
+  ],
+  "1_17_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 160,
+      "avg_start": 590
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 20,
+      "avg_start": 1030
+    },
+    {
+      "slot": "Evening",
+      "duration": 60,
+      "avg_start": 1275
+    }
+  ],
+  "1_17_TV/Youtube": [
+    {
+      "slot": "Afternoon",
+      "duration": 80,
+      "avg_start": 760
+    },
+    {
+      "slot": "Evening",
+      "duration": 1700,
+      "avg_start": 1202
+    }
+  ],
+  "1_19_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 710,
+      "avg_start": 315
+    },
+    {
+      "slot": "Morning",
+      "duration": 3790,
+      "avg_start": 580
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2340,
+      "avg_start": 931
+    },
+    {
+      "slot": "Evening",
+      "duration": 2610,
+      "avg_start": 1153
+    }
+  ],
+  "1_19_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 150,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 60,
+      "avg_start": 853
+    },
+    {
+      "slot": "Evening",
+      "duration": 230,
+      "avg_start": 1236
+    }
+  ],
+  "1_19_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 30,
+      "avg_start": 240
+    },
+    {
+      "slot": "Morning",
+      "duration": 270,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 170,
+      "avg_start": 1063
+    },
+    {
+      "slot": "Evening",
+      "duration": 2350,
+      "avg_start": 1185
+    }
+  ],
+  "1_20_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 300,
+      "avg_start": 330
+    },
+    {
+      "slot": "Morning",
+      "duration": 2890,
+      "avg_start": 572
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2300,
+      "avg_start": 923
+    },
+    {
+      "slot": "Evening",
+      "duration": 1800,
+      "avg_start": 1153
+    }
+  ],
+  "1_20_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 310,
+      "avg_start": 570
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 140,
+      "avg_start": 940
+    },
+    {
+      "slot": "Evening",
+      "duration": 220,
+      "avg_start": 1150
+    }
+  ],
+  "1_20_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 170,
+      "avg_start": 525
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 190,
+      "avg_start": 882
+    },
+    {
+      "slot": "Evening",
+      "duration": 190,
+      "avg_start": 1210
+    }
+  ],
+  "1_20_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 80,
+      "avg_start": 320
+    },
+    {
+      "slot": "Morning",
+      "duration": 290,
+      "avg_start": 420
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 500,
+      "avg_start": 1056
+    },
+    {
+      "slot": "Evening",
+      "duration": 3910,
+      "avg_start": 1182
+    }
+  ],
+  "1_22_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 170,
+      "avg_start": 324
+    },
+    {
+      "slot": "Morning",
+      "duration": 2530,
+      "avg_start": 595
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1680,
+      "avg_start": 1021
+    },
+    {
+      "slot": "Evening",
+      "duration": 1240,
+      "avg_start": 1164
+    }
+  ],
+  "1_22_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 190,
+      "avg_start": 550
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 20,
+      "avg_start": 760
+    },
+    {
+      "slot": "Evening",
+      "duration": 120,
+      "avg_start": 1200
+    }
+  ],
+  "1_22_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 90,
+      "avg_start": 675
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 400,
+      "avg_start": 1036
+    },
+    {
+      "slot": "Evening",
+      "duration": 150,
+      "avg_start": 1350
+    }
+  ],
+  "1_22_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 430,
+      "avg_start": 585
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 370,
+      "avg_start": 965
+    },
+    {
+      "slot": "Evening",
+      "duration": 1630,
+      "avg_start": 1170
+    }
+  ],
+  "1_24_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 300,
+      "avg_start": 329
+    },
+    {
+      "slot": "Morning",
+      "duration": 2910,
+      "avg_start": 587
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1540,
+      "avg_start": 906
+    },
+    {
+      "slot": "Evening",
+      "duration": 2200,
+      "avg_start": 1153
+    }
+  ],
+  "1_24_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 50,
+      "avg_start": 360
+    },
+    {
+      "slot": "Morning",
+      "duration": 260,
+      "avg_start": 370
+    },
+    {
+      "slot": "Evening",
+      "duration": 630,
+      "avg_start": 1206
+    }
+  ],
+  "1_24_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 20,
+      "avg_start": 345
+    },
+    {
+      "slot": "Morning",
+      "duration": 310,
+      "avg_start": 562
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 90,
+      "avg_start": 1014
+    },
+    {
+      "slot": "Evening",
+      "duration": 560,
+      "avg_start": 1237
+    }
+  ],
+  "1_24_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 330,
+      "avg_start": 568
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 800,
+      "avg_start": 932
+    },
+    {
+      "slot": "Evening",
+      "duration": 2140,
+      "avg_start": 1211
+    }
+  ],
+  "1_25_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 2000,
+      "avg_start": 319
+    },
+    {
+      "slot": "Morning",
+      "duration": 3320,
+      "avg_start": 606
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2360,
+      "avg_start": 931
+    },
+    {
+      "slot": "Evening",
+      "duration": 2650,
+      "avg_start": 1160
+    }
+  ],
+  "1_25_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 60,
+      "avg_start": 295
+    },
+    {
+      "slot": "Morning",
+      "duration": 130,
+      "avg_start": 682
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 50,
+      "avg_start": 985
+    },
+    {
+      "slot": "Evening",
+      "duration": 390,
+      "avg_start": 1232
+    }
+  ],
+  "1_25_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 360
+    },
+    {
+      "slot": "Morning",
+      "duration": 440,
+      "avg_start": 504
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 890,
+      "avg_start": 975
+    },
+    {
+      "slot": "Evening",
+      "duration": 2610,
+      "avg_start": 1172
+    }
+  ],
+  "1_31_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 350,
+      "avg_start": 333
+    },
+    {
+      "slot": "Morning",
+      "duration": 4650,
+      "avg_start": 570
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2190,
+      "avg_start": 986
+    },
+    {
+      "slot": "Evening",
+      "duration": 3580,
+      "avg_start": 1152
+    }
+  ],
+  "1_31_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 220,
+      "avg_start": 550
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 330,
+      "avg_start": 850
+    },
+    {
+      "slot": "Evening",
+      "duration": 1290,
+      "avg_start": 1250
+    }
+  ],
+  "1_31_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 330,
+      "avg_start": 536
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 110,
+      "avg_start": 820
+    },
+    {
+      "slot": "Evening",
+      "duration": 960,
+      "avg_start": 1278
+    }
+  ],
+  "1_31_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 1480,
+      "avg_start": 565
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 800,
+      "avg_start": 991
+    },
+    {
+      "slot": "Evening",
+      "duration": 4620,
+      "avg_start": 1207
+    }
+  ],
+  "1_33_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 340,
+      "avg_start": 336
+    },
+    {
+      "slot": "Morning",
+      "duration": 2530,
+      "avg_start": 556
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1380,
+      "avg_start": 880
+    },
+    {
+      "slot": "Evening",
+      "duration": 1800,
+      "avg_start": 1141
+    }
+  ],
+  "1_33_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 350,
+      "avg_start": 843
+    },
+    {
+      "slot": "Evening",
+      "duration": 300,
+      "avg_start": 1180
+    }
+  ],
+  "1_33_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 180,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 240,
+      "avg_start": 863
+    },
+    {
+      "slot": "Evening",
+      "duration": 650,
+      "avg_start": 1260
+    }
+  ],
+  "1_33_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 420,
+      "avg_start": 581
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 240,
+      "avg_start": 960
+    },
+    {
+      "slot": "Evening",
+      "duration": 2170,
+      "avg_start": 1193
+    }
+  ],
+  "1_35_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 280,
+      "avg_start": 328
+    },
+    {
+      "slot": "Morning",
+      "duration": 1760,
+      "avg_start": 580
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1120,
+      "avg_start": 970
+    },
+    {
+      "slot": "Evening",
+      "duration": 980,
+      "avg_start": 1151
+    }
+  ],
+  "1_35_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 160,
+      "avg_start": 1040
+    },
+    {
+      "slot": "Evening",
+      "duration": 170,
+      "avg_start": 1100
+    }
+  ],
+  "1_35_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 70,
+      "avg_start": 705
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 30,
+      "avg_start": 775
+    },
+    {
+      "slot": "Evening",
+      "duration": 1190,
+      "avg_start": 1238
+    }
+  ],
+  "1_35_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 60,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 410,
+      "avg_start": 916
+    },
+    {
+      "slot": "Evening",
+      "duration": 3060,
+      "avg_start": 1205
+    }
+  ],
+  "1_36_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 210,
+      "avg_start": 353
+    },
+    {
+      "slot": "Morning",
+      "duration": 3420,
+      "avg_start": 557
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1470,
+      "avg_start": 888
+    },
+    {
+      "slot": "Evening",
+      "duration": 3090,
+      "avg_start": 1169
+    }
+  ],
+  "1_36_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 200,
+      "avg_start": 1223
+    }
+  ],
+  "1_36_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 20,
+      "avg_start": 320
+    },
+    {
+      "slot": "Morning",
+      "duration": 60,
+      "avg_start": 660
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 60,
+      "avg_start": 1080
+    },
+    {
+      "slot": "Evening",
+      "duration": 380,
+      "avg_start": 1238
+    }
+  ],
+  "1_36_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 80,
+      "avg_start": 593
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 360,
+      "avg_start": 1042
+    },
+    {
+      "slot": "Evening",
+      "duration": 2100,
+      "avg_start": 1208
+    }
+  ],
+  "1_38_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 750,
+      "avg_start": 351
+    },
+    {
+      "slot": "Morning",
+      "duration": 5490,
+      "avg_start": 562
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2650,
+      "avg_start": 963
+    },
+    {
+      "slot": "Evening",
+      "duration": 3120,
+      "avg_start": 1152
+    }
+  ],
+  "1_38_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 60,
+      "avg_start": 900
+    },
+    {
+      "slot": "Evening",
+      "duration": 390,
+      "avg_start": 1160
+    }
+  ],
+  "1_38_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 20,
+      "avg_start": 350
+    },
+    {
+      "slot": "Morning",
+      "duration": 170,
+      "avg_start": 590
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 50,
+      "avg_start": 810
+    },
+    {
+      "slot": "Evening",
+      "duration": 700,
+      "avg_start": 1227
+    }
+  ],
+  "1_38_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 180,
+      "avg_start": 300
+    },
+    {
+      "slot": "Morning",
+      "duration": 740,
+      "avg_start": 583
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 870,
+      "avg_start": 897
+    },
+    {
+      "slot": "Evening",
+      "duration": 6090,
+      "avg_start": 1184
+    }
+  ],
+  "1_40_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 550,
+      "avg_start": 340
+    },
+    {
+      "slot": "Morning",
+      "duration": 5560,
+      "avg_start": 573
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2640,
+      "avg_start": 974
+    },
+    {
+      "slot": "Evening",
+      "duration": 2290,
+      "avg_start": 1142
+    }
+  ],
+  "1_40_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 60,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 530,
+      "avg_start": 933
+    },
+    {
+      "slot": "Evening",
+      "duration": 80,
+      "avg_start": 1110
+    }
+  ],
+  "1_40_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 150,
+      "avg_start": 495
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 540,
+      "avg_start": 1015
+    },
+    {
+      "slot": "Evening",
+      "duration": 1330,
+      "avg_start": 1207
+    }
+  ],
+  "1_40_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 430,
+      "avg_start": 308
+    },
+    {
+      "slot": "Morning",
+      "duration": 1590,
+      "avg_start": 577
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1540,
+      "avg_start": 964
+    },
+    {
+      "slot": "Evening",
+      "duration": 3100,
+      "avg_start": 1172
+    }
+  ],
+  "1_42_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 620,
+      "avg_start": 313
+    },
+    {
+      "slot": "Morning",
+      "duration": 2340,
+      "avg_start": 581
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1430,
+      "avg_start": 952
+    },
+    {
+      "slot": "Evening",
+      "duration": 820,
+      "avg_start": 1144
+    }
+  ],
+  "1_42_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 110,
+      "avg_start": 650
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 370,
+      "avg_start": 910
+    },
+    {
+      "slot": "Evening",
+      "duration": 310,
+      "avg_start": 1198
+    }
+  ],
+  "1_42_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 490,
+      "avg_start": 558
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 990,
+      "avg_start": 1003
+    },
+    {
+      "slot": "Evening",
+      "duration": 2080,
+      "avg_start": 1186
+    }
+  ],
+  "1_44_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 160,
+      "avg_start": 328
+    },
+    {
+      "slot": "Morning",
+      "duration": 2050,
+      "avg_start": 583
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1190,
+      "avg_start": 1001
+    },
+    {
+      "slot": "Evening",
+      "duration": 940,
+      "avg_start": 1127
+    }
+  ],
+  "1_44_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 30,
+      "avg_start": 270
+    },
+    {
+      "slot": "Morning",
+      "duration": 240,
+      "avg_start": 450
+    }
+  ],
+  "1_44_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 30,
+      "avg_start": 330
+    },
+    {
+      "slot": "Evening",
+      "duration": 340,
+      "avg_start": 1226
+    }
+  ],
+  "1_44_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 180,
+      "avg_start": 610
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 150,
+      "avg_start": 1080
+    },
+    {
+      "slot": "Evening",
+      "duration": 830,
+      "avg_start": 1176
+    }
+  ],
+  "1_46_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 530,
+      "avg_start": 332
+    },
+    {
+      "slot": "Morning",
+      "duration": 3640,
+      "avg_start": 559
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1680,
+      "avg_start": 1005
+    },
+    {
+      "slot": "Evening",
+      "duration": 1880,
+      "avg_start": 1145
+    }
+  ],
+  "1_46_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 120,
+      "avg_start": 420
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 160,
+      "avg_start": 1070
+    },
+    {
+      "slot": "Evening",
+      "duration": 120,
+      "avg_start": 1280
+    }
+  ],
+  "1_46_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 60,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 680,
+      "avg_start": 616
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 720,
+      "avg_start": 950
+    },
+    {
+      "slot": "Evening",
+      "duration": 1030,
+      "avg_start": 1189
+    }
+  ],
+  "1_46_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 160,
+      "avg_start": 320
+    },
+    {
+      "slot": "Morning",
+      "duration": 530,
+      "avg_start": 611
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2010,
+      "avg_start": 1013
+    },
+    {
+      "slot": "Evening",
+      "duration": 2130,
+      "avg_start": 1159
+    }
+  ],
+  "1_48_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 60,
+      "avg_start": 345
+    },
+    {
+      "slot": "Morning",
+      "duration": 1830,
+      "avg_start": 558
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 720,
+      "avg_start": 972
+    },
+    {
+      "slot": "Evening",
+      "duration": 1100,
+      "avg_start": 1170
+    }
+  ],
+  "1_48_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 40,
+      "avg_start": 640
+    },
+    {
+      "slot": "Evening",
+      "duration": 470,
+      "avg_start": 1133
+    }
+  ],
+  "1_48_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 340,
+      "avg_start": 555
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 120,
+      "avg_start": 900
+    },
+    {
+      "slot": "Evening",
+      "duration": 340,
+      "avg_start": 1225
+    }
+  ],
+  "1_48_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 580,
+      "avg_start": 603
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 940,
+      "avg_start": 964
+    },
+    {
+      "slot": "Evening",
+      "duration": 1070,
+      "avg_start": 1164
+    }
+  ],
+  "1_52_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 830,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 3380,
+      "avg_start": 559
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2010,
+      "avg_start": 1000
+    },
+    {
+      "slot": "Evening",
+      "duration": 1570,
+      "avg_start": 1134
+    }
+  ],
+  "1_52_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 60,
+      "avg_start": 900
+    },
+    {
+      "slot": "Evening",
+      "duration": 300,
+      "avg_start": 1170
+    }
+  ],
+  "1_52_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 10,
+      "avg_start": 320
+    },
+    {
+      "slot": "Morning",
+      "duration": 140,
+      "avg_start": 634
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 130,
+      "avg_start": 906
+    },
+    {
+      "slot": "Evening",
+      "duration": 380,
+      "avg_start": 1218
+    }
+  ],
+  "1_52_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 10,
+      "avg_start": 620
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1170,
+      "avg_start": 968
+    },
+    {
+      "slot": "Evening",
+      "duration": 2810,
+      "avg_start": 1153
+    }
+  ],
+  "1_56_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 800,
+      "avg_start": 310
+    },
+    {
+      "slot": "Morning",
+      "duration": 3300,
+      "avg_start": 559
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2120,
+      "avg_start": 970
+    },
+    {
+      "slot": "Evening",
+      "duration": 1620,
+      "avg_start": 1134
+    }
+  ],
+  "1_56_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 660,
+      "avg_start": 551
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 150,
+      "avg_start": 855
+    },
+    {
+      "slot": "Evening",
+      "duration": 580,
+      "avg_start": 1180
+    }
+  ],
+  "1_56_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 600,
+      "avg_start": 619
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1070,
+      "avg_start": 933
+    },
+    {
+      "slot": "Evening",
+      "duration": 1180,
+      "avg_start": 1182
+    }
+  ],
+  "1_56_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 310,
+      "avg_start": 536
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 940,
+      "avg_start": 989
+    },
+    {
+      "slot": "Evening",
+      "duration": 3090,
+      "avg_start": 1164
+    }
+  ],
+  "1_64_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 550,
+      "avg_start": 328
+    },
+    {
+      "slot": "Morning",
+      "duration": 1880,
+      "avg_start": 567
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1300,
+      "avg_start": 968
+    },
+    {
+      "slot": "Evening",
+      "duration": 940,
+      "avg_start": 1153
+    }
+  ],
+  "1_64_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 240,
+      "avg_start": 420
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 450,
+      "avg_start": 920
+    },
+    {
+      "slot": "Evening",
+      "duration": 340,
+      "avg_start": 1166
+    }
+  ],
+  "1_64_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 460,
+      "avg_start": 535
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1030,
+      "avg_start": 991
+    },
+    {
+      "slot": "Evening",
+      "duration": 1900,
+      "avg_start": 1184
+    }
+  ],
+  "1_66_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 290,
+      "avg_start": 330
+    },
+    {
+      "slot": "Morning",
+      "duration": 2840,
+      "avg_start": 557
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1410,
+      "avg_start": 978
+    },
+    {
+      "slot": "Evening",
+      "duration": 570,
+      "avg_start": 1150
+    }
+  ],
+  "1_66_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 50,
+      "avg_start": 315
+    },
+    {
+      "slot": "Morning",
+      "duration": 190,
+      "avg_start": 410
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 120,
+      "avg_start": 915
+    },
+    {
+      "slot": "Evening",
+      "duration": 780,
+      "avg_start": 1152
+    }
+  ],
+  "1_66_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 190,
+      "avg_start": 670
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 410,
+      "avg_start": 933
+    },
+    {
+      "slot": "Evening",
+      "duration": 580,
+      "avg_start": 1215
+    }
+  ],
+  "1_66_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 120,
+      "avg_start": 640
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 800,
+      "avg_start": 1006
+    },
+    {
+      "slot": "Evening",
+      "duration": 1410,
+      "avg_start": 1166
+    }
+  ],
+  "1_67_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 150,
+      "avg_start": 325
+    },
+    {
+      "slot": "Morning",
+      "duration": 2080,
+      "avg_start": 559
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 980,
+      "avg_start": 964
+    },
+    {
+      "slot": "Evening",
+      "duration": 440,
+      "avg_start": 1141
+    }
+  ],
+  "1_67_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 470,
+      "avg_start": 503
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 150,
+      "avg_start": 810
+    },
+    {
+      "slot": "Evening",
+      "duration": 120,
+      "avg_start": 1140
+    }
+  ],
+  "1_67_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 80,
+      "avg_start": 260
+    },
+    {
+      "slot": "Morning",
+      "duration": 540,
+      "avg_start": 597
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1140,
+      "avg_start": 963
+    },
+    {
+      "slot": "Evening",
+      "duration": 970,
+      "avg_start": 1185
+    }
+  ],
+  "1_67_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 250,
+      "avg_start": 245
+    },
+    {
+      "slot": "Morning",
+      "duration": 30,
+      "avg_start": 450
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 450,
+      "avg_start": 1042
+    },
+    {
+      "slot": "Evening",
+      "duration": 990,
+      "avg_start": 1194
+    }
+  ],
+  "1_68_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 290,
+      "avg_start": 337
+    },
+    {
+      "slot": "Morning",
+      "duration": 2520,
+      "avg_start": 573
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1860,
+      "avg_start": 941
+    },
+    {
+      "slot": "Evening",
+      "duration": 890,
+      "avg_start": 1154
+    }
+  ],
+  "1_68_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 90,
+      "avg_start": 330
+    },
+    {
+      "slot": "Morning",
+      "duration": 140,
+      "avg_start": 570
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 590,
+      "avg_start": 898
+    },
+    {
+      "slot": "Evening",
+      "duration": 470,
+      "avg_start": 1210
+    }
+  ],
+  "1_68_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 90,
+      "avg_start": 290
+    },
+    {
+      "slot": "Morning",
+      "duration": 170,
+      "avg_start": 603
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 390,
+      "avg_start": 950
+    },
+    {
+      "slot": "Evening",
+      "duration": 610,
+      "avg_start": 1183
+    }
+  ],
+  "1_68_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 360,
+      "avg_start": 450
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 700,
+      "avg_start": 945
+    },
+    {
+      "slot": "Evening",
+      "duration": 1940,
+      "avg_start": 1195
+    }
+  ],
+  "1_70_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 1210,
+      "avg_start": 336
+    },
+    {
+      "slot": "Morning",
+      "duration": 4530,
+      "avg_start": 581
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 4710,
+      "avg_start": 969
+    },
+    {
+      "slot": "Evening",
+      "duration": 2430,
+      "avg_start": 1152
+    }
+  ],
+  "1_70_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 260,
+      "avg_start": 470
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 350,
+      "avg_start": 883
+    },
+    {
+      "slot": "Evening",
+      "duration": 620,
+      "avg_start": 1196
+    }
+  ],
+  "1_70_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 30,
+      "avg_start": 630
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 240,
+      "avg_start": 833
+    },
+    {
+      "slot": "Evening",
+      "duration": 520,
+      "avg_start": 1160
+    }
+  ],
+  "1_70_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 320,
+      "avg_start": 273
+    },
+    {
+      "slot": "Morning",
+      "duration": 610,
+      "avg_start": 555
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1320,
+      "avg_start": 1006
+    },
+    {
+      "slot": "Evening",
+      "duration": 2630,
+      "avg_start": 1187
+    }
+  ],
+  "1_72_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 1350,
+      "avg_start": 307
+    },
+    {
+      "slot": "Morning",
+      "duration": 4870,
+      "avg_start": 576
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 6110,
+      "avg_start": 973
+    },
+    {
+      "slot": "Evening",
+      "duration": 2230,
+      "avg_start": 1168
+    }
+  ],
+  "1_72_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 210,
+      "avg_start": 585
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 270,
+      "avg_start": 780
+    },
+    {
+      "slot": "Evening",
+      "duration": 370,
+      "avg_start": 1105
+    }
+  ],
+  "1_72_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 350,
+      "avg_start": 595
+    },
+    {
+      "slot": "Evening",
+      "duration": 710,
+      "avg_start": 1206
+    }
+  ],
+  "1_72_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 250
+    },
+    {
+      "slot": "Morning",
+      "duration": 860,
+      "avg_start": 613
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2190,
+      "avg_start": 945
+    },
+    {
+      "slot": "Evening",
+      "duration": 1850,
+      "avg_start": 1182
+    }
+  ],
+  "1_74_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 330,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 6940,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3770,
+      "avg_start": 978
+    },
+    {
+      "slot": "Evening",
+      "duration": 3410,
+      "avg_start": 1171
+    }
+  ],
+  "1_74_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 240,
+      "avg_start": 645
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 240,
+      "avg_start": 940
+    },
+    {
+      "slot": "Evening",
+      "duration": 630,
+      "avg_start": 1290
+    }
+  ],
+  "1_74_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 530,
+      "avg_start": 561
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 370,
+      "avg_start": 916
+    },
+    {
+      "slot": "Evening",
+      "duration": 470,
+      "avg_start": 1254
+    }
+  ],
+  "1_74_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 380,
+      "avg_start": 548
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1150,
+      "avg_start": 1030
+    },
+    {
+      "slot": "Evening",
+      "duration": 1970,
+      "avg_start": 1170
+    }
+  ],
+  "1_75_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 670,
+      "avg_start": 314
+    },
+    {
+      "slot": "Morning",
+      "duration": 4540,
+      "avg_start": 567
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3950,
+      "avg_start": 962
+    },
+    {
+      "slot": "Evening",
+      "duration": 3470,
+      "avg_start": 1166
+    }
+  ],
+  "1_75_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 590,
+      "avg_start": 574
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 210,
+      "avg_start": 995
+    },
+    {
+      "slot": "Evening",
+      "duration": 1190,
+      "avg_start": 1170
+    }
+  ],
+  "1_75_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 100,
+      "avg_start": 400
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 100,
+      "avg_start": 930
+    },
+    {
+      "slot": "Evening",
+      "duration": 530,
+      "avg_start": 1211
+    }
+  ],
+  "1_75_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 140,
+      "avg_start": 336
+    },
+    {
+      "slot": "Morning",
+      "duration": 150,
+      "avg_start": 638
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1390,
+      "avg_start": 991
+    },
+    {
+      "slot": "Evening",
+      "duration": 1060,
+      "avg_start": 1193
+    }
+  ],
+  "1_77_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 1110,
+      "avg_start": 317
+    },
+    {
+      "slot": "Morning",
+      "duration": 4470,
+      "avg_start": 589
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3840,
+      "avg_start": 951
+    },
+    {
+      "slot": "Evening",
+      "duration": 4690,
+      "avg_start": 1150
+    }
+  ],
+  "1_77_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 400,
+      "avg_start": 980
+    },
+    {
+      "slot": "Evening",
+      "duration": 180,
+      "avg_start": 1170
+    }
+  ],
+  "1_77_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 240,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 210,
+      "avg_start": 892
+    },
+    {
+      "slot": "Evening",
+      "duration": 260,
+      "avg_start": 1228
+    }
+  ],
+  "1_77_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 40,
+      "avg_start": 240
+    },
+    {
+      "slot": "Morning",
+      "duration": 1090,
+      "avg_start": 558
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 760,
+      "avg_start": 1010
+    },
+    {
+      "slot": "Evening",
+      "duration": 2780,
+      "avg_start": 1192
+    }
+  ],
+  "1_79_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 730,
+      "avg_start": 330
+    },
+    {
+      "slot": "Morning",
+      "duration": 8820,
+      "avg_start": 567
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 6370,
+      "avg_start": 924
+    },
+    {
+      "slot": "Evening",
+      "duration": 6400,
+      "avg_start": 1182
+    }
+  ],
+  "1_79_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 830,
+      "avg_start": 644
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1770,
+      "avg_start": 910
+    },
+    {
+      "slot": "Evening",
+      "duration": 1310,
+      "avg_start": 1300
+    }
+  ],
+  "1_79_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 280,
+      "avg_start": 593
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 770,
+      "avg_start": 933
+    },
+    {
+      "slot": "Evening",
+      "duration": 700,
+      "avg_start": 1248
+    }
+  ],
+  "1_79_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 350,
+      "avg_start": 285
+    },
+    {
+      "slot": "Morning",
+      "duration": 2090,
+      "avg_start": 560
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3340,
+      "avg_start": 922
+    },
+    {
+      "slot": "Evening",
+      "duration": 4230,
+      "avg_start": 1207
+    }
+  ],
+  "1_80_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 1060,
+      "avg_start": 317
+    },
+    {
+      "slot": "Morning",
+      "duration": 3180,
+      "avg_start": 586
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2440,
+      "avg_start": 956
+    },
+    {
+      "slot": "Evening",
+      "duration": 1530,
+      "avg_start": 1156
+    }
+  ],
+  "1_80_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 220,
+      "avg_start": 620
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 120,
+      "avg_start": 900
+    },
+    {
+      "slot": "Evening",
+      "duration": 150,
+      "avg_start": 1230
+    }
+  ],
+  "1_80_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 40,
+      "avg_start": 560
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 180,
+      "avg_start": 995
+    },
+    {
+      "slot": "Evening",
+      "duration": 270,
+      "avg_start": 1177
+    }
+  ],
+  "1_80_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 40,
+      "avg_start": 320
+    },
+    {
+      "slot": "Morning",
+      "duration": 650,
+      "avg_start": 518
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1410,
+      "avg_start": 1034
+    },
+    {
+      "slot": "Evening",
+      "duration": 2120,
+      "avg_start": 1155
+    }
+  ],
+  "1_82_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 530,
+      "avg_start": 332
+    },
+    {
+      "slot": "Morning",
+      "duration": 3750,
+      "avg_start": 574
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2680,
+      "avg_start": 1001
+    },
+    {
+      "slot": "Evening",
+      "duration": 690,
+      "avg_start": 1150
+    }
+  ],
+  "1_82_Social Media/Web": [
+    {
+      "slot": "Afternoon",
+      "duration": 170,
+      "avg_start": 1050
+    },
+    {
+      "slot": "Evening",
+      "duration": 780,
+      "avg_start": 1173
+    }
+  ],
+  "1_82_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 610,
+      "avg_start": 496
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1580,
+      "avg_start": 1062
+    },
+    {
+      "slot": "Evening",
+      "duration": 1620,
+      "avg_start": 1161
+    }
+  ],
+  "1_87_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 800,
+      "avg_start": 304
+    },
+    {
+      "slot": "Morning",
+      "duration": 5140,
+      "avg_start": 595
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3540,
+      "avg_start": 991
+    },
+    {
+      "slot": "Evening",
+      "duration": 490,
+      "avg_start": 1148
+    }
+  ],
+  "1_87_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 80,
+      "avg_start": 610
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 130,
+      "avg_start": 940
+    },
+    {
+      "slot": "Evening",
+      "duration": 410,
+      "avg_start": 1240
+    }
+  ],
+  "1_87_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 460,
+      "avg_start": 314
+    },
+    {
+      "slot": "Morning",
+      "duration": 440,
+      "avg_start": 584
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3280,
+      "avg_start": 1036
+    },
+    {
+      "slot": "Evening",
+      "duration": 1820,
+      "avg_start": 1138
+    }
+  ],
+  "1_89_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 1560,
+      "avg_start": 290
+    },
+    {
+      "slot": "Morning",
+      "duration": 6400,
+      "avg_start": 578
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 6040,
+      "avg_start": 962
+    },
+    {
+      "slot": "Evening",
+      "duration": 1590,
+      "avg_start": 1135
+    }
+  ],
+  "1_89_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 50,
+      "avg_start": 390
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 330,
+      "avg_start": 1020
+    }
+  ],
+  "1_89_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 150,
+      "avg_start": 465
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 180,
+      "avg_start": 1080
+    },
+    {
+      "slot": "Evening",
+      "duration": 520,
+      "avg_start": 1190
+    }
+  ],
+  "1_89_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 190,
+      "avg_start": 265
+    },
+    {
+      "slot": "Morning",
+      "duration": 770,
+      "avg_start": 577
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1980,
+      "avg_start": 997
+    },
+    {
+      "slot": "Evening",
+      "duration": 1540,
+      "avg_start": 1155
+    }
+  ],
+  "1_91_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 340,
+      "avg_start": 333
+    },
+    {
+      "slot": "Morning",
+      "duration": 5870,
+      "avg_start": 573
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 4320,
+      "avg_start": 992
+    },
+    {
+      "slot": "Evening",
+      "duration": 1330,
+      "avg_start": 1145
+    }
+  ],
+  "1_91_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 170,
+      "avg_start": 490
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 430,
+      "avg_start": 1075
+    },
+    {
+      "slot": "Evening",
+      "duration": 250,
+      "avg_start": 1116
+    }
+  ],
+  "1_91_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 90,
+      "avg_start": 495
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 130,
+      "avg_start": 826
+    },
+    {
+      "slot": "Evening",
+      "duration": 680,
+      "avg_start": 1189
+    }
+  ],
+  "1_91_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 520,
+      "avg_start": 570
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1260,
+      "avg_start": 1051
+    },
+    {
+      "slot": "Evening",
+      "duration": 2260,
+      "avg_start": 1148
+    }
+  ],
+  "1_92_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 780,
+      "avg_start": 303
+    },
+    {
+      "slot": "Morning",
+      "duration": 4030,
+      "avg_start": 571
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2330,
+      "avg_start": 940
+    },
+    {
+      "slot": "Evening",
+      "duration": 1550,
+      "avg_start": 1155
+    }
+  ],
+  "1_92_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 120,
+      "avg_start": 610
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 70,
+      "avg_start": 1060
+    },
+    {
+      "slot": "Evening",
+      "duration": 120,
+      "avg_start": 1260
+    }
+  ],
+  "1_92_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 120,
+      "avg_start": 570
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 180,
+      "avg_start": 1020
+    },
+    {
+      "slot": "Evening",
+      "duration": 330,
+      "avg_start": 1270
+    }
+  ],
+  "1_92_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 150,
+      "avg_start": 315
+    },
+    {
+      "slot": "Morning",
+      "duration": 540,
+      "avg_start": 507
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2160,
+      "avg_start": 1002
+    },
+    {
+      "slot": "Evening",
+      "duration": 1170,
+      "avg_start": 1170
+    }
+  ],
+  "1_93_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 850,
+      "avg_start": 324
+    },
+    {
+      "slot": "Morning",
+      "duration": 3460,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2330,
+      "avg_start": 958
+    },
+    {
+      "slot": "Evening",
+      "duration": 340,
+      "avg_start": 1137
+    }
+  ],
+  "1_93_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 160,
+      "avg_start": 1100
+    }
+  ],
+  "1_93_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 150,
+      "avg_start": 570
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 250,
+      "avg_start": 955
+    },
+    {
+      "slot": "Evening",
+      "duration": 530,
+      "avg_start": 1172
+    }
+  ],
+  "1_93_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 150,
+      "avg_start": 290
+    },
+    {
+      "slot": "Morning",
+      "duration": 520,
+      "avg_start": 548
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1240,
+      "avg_start": 965
+    },
+    {
+      "slot": "Evening",
+      "duration": 1190,
+      "avg_start": 1166
+    }
+  ],
+  "1_95_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 420,
+      "avg_start": 298
+    },
+    {
+      "slot": "Morning",
+      "duration": 5050,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2630,
+      "avg_start": 935
+    },
+    {
+      "slot": "Evening",
+      "duration": 960,
+      "avg_start": 1127
+    }
+  ],
+  "1_95_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 30,
+      "avg_start": 1050
+    }
+  ],
+  "1_95_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 20,
+      "avg_start": 720
+    },
+    {
+      "slot": "Evening",
+      "duration": 310,
+      "avg_start": 1198
+    }
+  ],
+  "1_95_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 60,
+      "avg_start": 240
+    },
+    {
+      "slot": "Morning",
+      "duration": 440,
+      "avg_start": 533
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2350,
+      "avg_start": 1016
+    },
+    {
+      "slot": "Evening",
+      "duration": 2140,
+      "avg_start": 1141
+    }
+  ],
+  "2_1_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 980,
+      "avg_start": 337
+    },
+    {
+      "slot": "Morning",
+      "duration": 17410,
+      "avg_start": 589
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 8230,
+      "avg_start": 906
+    },
+    {
+      "slot": "Evening",
+      "duration": 14620,
+      "avg_start": 1149
+    }
+  ],
+  "2_1_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 390,
+      "avg_start": 806
+    },
+    {
+      "slot": "Evening",
+      "duration": 770,
+      "avg_start": 1262
+    }
+  ],
+  "2_1_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 1020,
+      "avg_start": 580
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1720,
+      "avg_start": 851
+    },
+    {
+      "slot": "Evening",
+      "duration": 4950,
+      "avg_start": 1256
+    }
+  ],
+  "2_1_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 2090,
+      "avg_start": 601
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1860,
+      "avg_start": 916
+    },
+    {
+      "slot": "Evening",
+      "duration": 15330,
+      "avg_start": 1209
+    }
+  ],
+  "2_10_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 250,
+      "avg_start": 336
+    },
+    {
+      "slot": "Morning",
+      "duration": 880,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1230,
+      "avg_start": 911
+    },
+    {
+      "slot": "Evening",
+      "duration": 940,
+      "avg_start": 1156
+    }
+  ],
+  "2_10_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 430,
+      "avg_start": 1236
+    }
+  ],
+  "2_10_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 190,
+      "avg_start": 325
+    },
+    {
+      "slot": "Morning",
+      "duration": 370,
+      "avg_start": 517
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 430,
+      "avg_start": 865
+    },
+    {
+      "slot": "Evening",
+      "duration": 360,
+      "avg_start": 1196
+    }
+  ],
+  "2_10_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 230,
+      "avg_start": 345
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 170,
+      "avg_start": 896
+    },
+    {
+      "slot": "Evening",
+      "duration": 900,
+      "avg_start": 1200
+    }
+  ],
+  "2_14_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 70,
+      "avg_start": 340
+    },
+    {
+      "slot": "Morning",
+      "duration": 2090,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1520,
+      "avg_start": 860
+    },
+    {
+      "slot": "Evening",
+      "duration": 2190,
+      "avg_start": 1149
+    }
+  ],
+  "2_14_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 20,
+      "avg_start": 680
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 30,
+      "avg_start": 760
+    },
+    {
+      "slot": "Evening",
+      "duration": 420,
+      "avg_start": 1315
+    }
+  ],
+  "2_14_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 750,
+      "avg_start": 588
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 550,
+      "avg_start": 931
+    },
+    {
+      "slot": "Evening",
+      "duration": 1860,
+      "avg_start": 1217
+    }
+  ],
+  "2_15_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 110,
+      "avg_start": 350
+    },
+    {
+      "slot": "Morning",
+      "duration": 2610,
+      "avg_start": 597
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1920,
+      "avg_start": 920
+    },
+    {
+      "slot": "Evening",
+      "duration": 1710,
+      "avg_start": 1159
+    }
+  ],
+  "2_15_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 110,
+      "avg_start": 647
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 190,
+      "avg_start": 827
+    },
+    {
+      "slot": "Evening",
+      "duration": 850,
+      "avg_start": 1236
+    }
+  ],
+  "2_15_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 260,
+      "avg_start": 553
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 490,
+      "avg_start": 925
+    },
+    {
+      "slot": "Evening",
+      "duration": 2210,
+      "avg_start": 1220
+    }
+  ],
+  "2_17_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 150,
+      "avg_start": 328
+    },
+    {
+      "slot": "Morning",
+      "duration": 3890,
+      "avg_start": 566
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2580,
+      "avg_start": 900
+    },
+    {
+      "slot": "Evening",
+      "duration": 3500,
+      "avg_start": 1156
+    }
+  ],
+  "2_17_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 60,
+      "avg_start": 240
+    },
+    {
+      "slot": "Morning",
+      "duration": 230,
+      "avg_start": 622
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 110,
+      "avg_start": 740
+    },
+    {
+      "slot": "Evening",
+      "duration": 530,
+      "avg_start": 1271
+    }
+  ],
+  "2_17_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 310,
+      "avg_start": 593
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 890,
+      "avg_start": 908
+    },
+    {
+      "slot": "Evening",
+      "duration": 2930,
+      "avg_start": 1216
+    }
+  ],
+  "2_19_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 290,
+      "avg_start": 332
+    },
+    {
+      "slot": "Morning",
+      "duration": 3910,
+      "avg_start": 597
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1990,
+      "avg_start": 948
+    },
+    {
+      "slot": "Evening",
+      "duration": 3460,
+      "avg_start": 1161
+    }
+  ],
+  "2_19_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 40,
+      "avg_start": 350
+    },
+    {
+      "slot": "Morning",
+      "duration": 90,
+      "avg_start": 710
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 200,
+      "avg_start": 810
+    },
+    {
+      "slot": "Evening",
+      "duration": 380,
+      "avg_start": 1276
+    }
+  ],
+  "2_19_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 100,
+      "avg_start": 350
+    },
+    {
+      "slot": "Morning",
+      "duration": 340,
+      "avg_start": 637
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 410,
+      "avg_start": 958
+    },
+    {
+      "slot": "Evening",
+      "duration": 2190,
+      "avg_start": 1203
+    }
+  ],
+  "2_20_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 310,
+      "avg_start": 337
+    },
+    {
+      "slot": "Morning",
+      "duration": 2960,
+      "avg_start": 576
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2260,
+      "avg_start": 922
+    },
+    {
+      "slot": "Evening",
+      "duration": 2340,
+      "avg_start": 1142
+    }
+  ],
+  "2_20_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 240,
+      "avg_start": 612
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 80,
+      "avg_start": 895
+    },
+    {
+      "slot": "Evening",
+      "duration": 560,
+      "avg_start": 1224
+    }
+  ],
+  "2_20_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 110,
+      "avg_start": 250
+    },
+    {
+      "slot": "Morning",
+      "duration": 420,
+      "avg_start": 576
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 800,
+      "avg_start": 891
+    },
+    {
+      "slot": "Evening",
+      "duration": 2530,
+      "avg_start": 1194
+    }
+  ],
+  "2_22_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 680,
+      "avg_start": 336
+    },
+    {
+      "slot": "Morning",
+      "duration": 6380,
+      "avg_start": 587
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3460,
+      "avg_start": 978
+    },
+    {
+      "slot": "Evening",
+      "duration": 3430,
+      "avg_start": 1142
+    }
+  ],
+  "2_22_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 240
+    },
+    {
+      "slot": "Morning",
+      "duration": 140,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 180,
+      "avg_start": 850
+    },
+    {
+      "slot": "Evening",
+      "duration": 1110,
+      "avg_start": 1257
+    }
+  ],
+  "2_22_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 340,
+      "avg_start": 574
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 500,
+      "avg_start": 884
+    },
+    {
+      "slot": "Evening",
+      "duration": 2000,
+      "avg_start": 1254
+    }
+  ],
+  "2_22_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 30,
+      "avg_start": 360
+    },
+    {
+      "slot": "Morning",
+      "duration": 1050,
+      "avg_start": 561
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2300,
+      "avg_start": 906
+    },
+    {
+      "slot": "Evening",
+      "duration": 6290,
+      "avg_start": 1195
+    }
+  ],
+  "2_24_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 240,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 3080,
+      "avg_start": 583
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2100,
+      "avg_start": 917
+    },
+    {
+      "slot": "Evening",
+      "duration": 3020,
+      "avg_start": 1165
+    }
+  ],
+  "2_24_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 60,
+      "avg_start": 880
+    }
+  ],
+  "2_24_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 50,
+      "avg_start": 330
+    },
+    {
+      "slot": "Morning",
+      "duration": 80,
+      "avg_start": 623
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 50,
+      "avg_start": 755
+    },
+    {
+      "slot": "Evening",
+      "duration": 550,
+      "avg_start": 1244
+    }
+  ],
+  "2_24_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 650,
+      "avg_start": 626
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 240,
+      "avg_start": 920
+    },
+    {
+      "slot": "Evening",
+      "duration": 1850,
+      "avg_start": 1200
+    }
+  ],
+  "2_25_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 310,
+      "avg_start": 337
+    },
+    {
+      "slot": "Morning",
+      "duration": 3050,
+      "avg_start": 578
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2490,
+      "avg_start": 907
+    },
+    {
+      "slot": "Evening",
+      "duration": 3320,
+      "avg_start": 1184
+    }
+  ],
+  "2_25_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 270,
+      "avg_start": 550
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 350,
+      "avg_start": 818
+    },
+    {
+      "slot": "Evening",
+      "duration": 160,
+      "avg_start": 1275
+    }
+  ],
+  "2_25_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 290,
+      "avg_start": 540
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 250,
+      "avg_start": 838
+    },
+    {
+      "slot": "Evening",
+      "duration": 3220,
+      "avg_start": 1207
+    }
+  ],
+  "2_31_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 530,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 9670,
+      "avg_start": 573
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3740,
+      "avg_start": 972
+    },
+    {
+      "slot": "Evening",
+      "duration": 4640,
+      "avg_start": 1134
+    }
+  ],
+  "2_31_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 460,
+      "avg_start": 1208
+    }
+  ],
+  "2_31_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 30,
+      "avg_start": 690
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 440,
+      "avg_start": 830
+    },
+    {
+      "slot": "Evening",
+      "duration": 2320,
+      "avg_start": 1275
+    }
+  ],
+  "2_31_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 150,
+      "avg_start": 300
+    },
+    {
+      "slot": "Morning",
+      "duration": 1980,
+      "avg_start": 617
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3170,
+      "avg_start": 899
+    },
+    {
+      "slot": "Evening",
+      "duration": 10620,
+      "avg_start": 1202
+    }
+  ],
+  "2_33_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 590,
+      "avg_start": 341
+    },
+    {
+      "slot": "Morning",
+      "duration": 5720,
+      "avg_start": 570
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3270,
+      "avg_start": 891
+    },
+    {
+      "slot": "Evening",
+      "duration": 4310,
+      "avg_start": 1147
+    }
+  ],
+  "2_33_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 120,
+      "avg_start": 1140
+    }
+  ],
+  "2_33_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 360,
+      "avg_start": 510
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 150,
+      "avg_start": 915
+    },
+    {
+      "slot": "Evening",
+      "duration": 1380,
+      "avg_start": 1236
+    }
+  ],
+  "2_33_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 400,
+      "avg_start": 577
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 750,
+      "avg_start": 997
+    },
+    {
+      "slot": "Evening",
+      "duration": 4030,
+      "avg_start": 1209
+    }
+  ],
+  "2_35_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 340,
+      "avg_start": 326
+    },
+    {
+      "slot": "Morning",
+      "duration": 6280,
+      "avg_start": 583
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3260,
+      "avg_start": 975
+    },
+    {
+      "slot": "Evening",
+      "duration": 3580,
+      "avg_start": 1154
+    }
+  ],
+  "2_35_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 360,
+      "avg_start": 565
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 330,
+      "avg_start": 824
+    },
+    {
+      "slot": "Evening",
+      "duration": 1360,
+      "avg_start": 1271
+    }
+  ],
+  "2_35_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 50,
+      "avg_start": 250
+    },
+    {
+      "slot": "Morning",
+      "duration": 100,
+      "avg_start": 680
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1510,
+      "avg_start": 930
+    },
+    {
+      "slot": "Evening",
+      "duration": 6940,
+      "avg_start": 1194
+    }
+  ],
+  "2_36_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 510,
+      "avg_start": 343
+    },
+    {
+      "slot": "Morning",
+      "duration": 9940,
+      "avg_start": 563
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2780,
+      "avg_start": 915
+    },
+    {
+      "slot": "Evening",
+      "duration": 8540,
+      "avg_start": 1156
+    }
+  ],
+  "2_36_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 150,
+      "avg_start": 540
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 150,
+      "avg_start": 870
+    },
+    {
+      "slot": "Evening",
+      "duration": 180,
+      "avg_start": 1240
+    }
+  ],
+  "2_36_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 380,
+      "avg_start": 590
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 450,
+      "avg_start": 865
+    },
+    {
+      "slot": "Evening",
+      "duration": 1500,
+      "avg_start": 1255
+    }
+  ],
+  "2_36_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 1620,
+      "avg_start": 571
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3240,
+      "avg_start": 898
+    },
+    {
+      "slot": "Evening",
+      "duration": 6880,
+      "avg_start": 1216
+    }
+  ],
+  "2_38_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 410,
+      "avg_start": 340
+    },
+    {
+      "slot": "Morning",
+      "duration": 6220,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2530,
+      "avg_start": 985
+    },
+    {
+      "slot": "Evening",
+      "duration": 4880,
+      "avg_start": 1167
+    }
+  ],
+  "2_38_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 140,
+      "avg_start": 1200
+    }
+  ],
+  "2_38_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 200,
+      "avg_start": 575
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 280,
+      "avg_start": 850
+    },
+    {
+      "slot": "Evening",
+      "duration": 1600,
+      "avg_start": 1244
+    }
+  ],
+  "2_38_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 380,
+      "avg_start": 587
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 590,
+      "avg_start": 832
+    },
+    {
+      "slot": "Evening",
+      "duration": 5170,
+      "avg_start": 1222
+    }
+  ],
+  "2_40_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 770,
+      "avg_start": 349
+    },
+    {
+      "slot": "Morning",
+      "duration": 8050,
+      "avg_start": 580
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3900,
+      "avg_start": 933
+    },
+    {
+      "slot": "Evening",
+      "duration": 5260,
+      "avg_start": 1143
+    }
+  ],
+  "2_40_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 240
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 120,
+      "avg_start": 820
+    },
+    {
+      "slot": "Evening",
+      "duration": 120,
+      "avg_start": 1200
+    }
+  ],
+  "2_40_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 250,
+      "avg_start": 571
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 190,
+      "avg_start": 872
+    },
+    {
+      "slot": "Evening",
+      "duration": 710,
+      "avg_start": 1243
+    }
+  ],
+  "2_40_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 100,
+      "avg_start": 325
+    },
+    {
+      "slot": "Morning",
+      "duration": 740,
+      "avg_start": 601
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1860,
+      "avg_start": 934
+    },
+    {
+      "slot": "Evening",
+      "duration": 6640,
+      "avg_start": 1186
+    }
+  ],
+  "2_42_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 540,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 8220,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 5580,
+      "avg_start": 951
+    },
+    {
+      "slot": "Evening",
+      "duration": 4590,
+      "avg_start": 1145
+    }
+  ],
+  "2_42_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 30,
+      "avg_start": 370
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 380,
+      "avg_start": 943
+    },
+    {
+      "slot": "Evening",
+      "duration": 30,
+      "avg_start": 1290
+    }
+  ],
+  "2_42_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 300,
+      "avg_start": 620
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 130,
+      "avg_start": 826
+    },
+    {
+      "slot": "Evening",
+      "duration": 550,
+      "avg_start": 1237
+    }
+  ],
+  "2_42_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 690,
+      "avg_start": 581
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1040,
+      "avg_start": 946
+    },
+    {
+      "slot": "Evening",
+      "duration": 4980,
+      "avg_start": 1166
+    }
+  ],
+  "2_44_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 630,
+      "avg_start": 321
+    },
+    {
+      "slot": "Morning",
+      "duration": 5850,
+      "avg_start": 578
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3200,
+      "avg_start": 967
+    },
+    {
+      "slot": "Evening",
+      "duration": 3870,
+      "avg_start": 1146
+    }
+  ],
+  "2_44_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 60,
+      "avg_start": 595
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 300,
+      "avg_start": 890
+    },
+    {
+      "slot": "Evening",
+      "duration": 30,
+      "avg_start": 1110
+    }
+  ],
+  "2_44_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 600,
+      "avg_start": 587
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 680,
+      "avg_start": 951
+    },
+    {
+      "slot": "Evening",
+      "duration": 990,
+      "avg_start": 1241
+    }
+  ],
+  "2_44_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 400,
+      "avg_start": 616
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 660,
+      "avg_start": 945
+    },
+    {
+      "slot": "Evening",
+      "duration": 2700,
+      "avg_start": 1176
+    }
+  ],
+  "2_46_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 210,
+      "avg_start": 333
+    },
+    {
+      "slot": "Morning",
+      "duration": 4290,
+      "avg_start": 565
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2130,
+      "avg_start": 1001
+    },
+    {
+      "slot": "Evening",
+      "duration": 1450,
+      "avg_start": 1139
+    }
+  ],
+  "2_46_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 290,
+      "avg_start": 628
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 300,
+      "avg_start": 812
+    },
+    {
+      "slot": "Evening",
+      "duration": 500,
+      "avg_start": 1257
+    }
+  ],
+  "2_46_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 530,
+      "avg_start": 575
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 910,
+      "avg_start": 960
+    },
+    {
+      "slot": "Evening",
+      "duration": 2860,
+      "avg_start": 1177
+    }
+  ],
+  "2_48_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 20,
+      "avg_start": 340
+    },
+    {
+      "slot": "Morning",
+      "duration": 3170,
+      "avg_start": 581
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1940,
+      "avg_start": 957
+    },
+    {
+      "slot": "Evening",
+      "duration": 1430,
+      "avg_start": 1154
+    }
+  ],
+  "2_48_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 270,
+      "avg_start": 785
+    },
+    {
+      "slot": "Evening",
+      "duration": 180,
+      "avg_start": 1140
+    }
+  ],
+  "2_48_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 480,
+      "avg_start": 643
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 400,
+      "avg_start": 901
+    },
+    {
+      "slot": "Evening",
+      "duration": 1070,
+      "avg_start": 1255
+    }
+  ],
+  "2_48_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 360
+    },
+    {
+      "slot": "Morning",
+      "duration": 490,
+      "avg_start": 587
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1260,
+      "avg_start": 910
+    },
+    {
+      "slot": "Evening",
+      "duration": 2190,
+      "avg_start": 1179
+    }
+  ],
+  "2_52_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 190,
+      "avg_start": 345
+    },
+    {
+      "slot": "Morning",
+      "duration": 6100,
+      "avg_start": 575
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3810,
+      "avg_start": 996
+    },
+    {
+      "slot": "Evening",
+      "duration": 1780,
+      "avg_start": 1128
+    }
+  ],
+  "2_52_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 60,
+      "avg_start": 540
+    }
+  ],
+  "2_52_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 350,
+      "avg_start": 592
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 190,
+      "avg_start": 863
+    },
+    {
+      "slot": "Evening",
+      "duration": 340,
+      "avg_start": 1237
+    }
+  ],
+  "2_52_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 1150,
+      "avg_start": 549
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1750,
+      "avg_start": 914
+    },
+    {
+      "slot": "Evening",
+      "duration": 4850,
+      "avg_start": 1178
+    }
+  ],
+  "2_56_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 300,
+      "avg_start": 330
+    },
+    {
+      "slot": "Morning",
+      "duration": 3480,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1960,
+      "avg_start": 1000
+    },
+    {
+      "slot": "Evening",
+      "duration": 1070,
+      "avg_start": 1163
+    }
+  ],
+  "2_56_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 100,
+      "avg_start": 740
+    },
+    {
+      "slot": "Evening",
+      "duration": 100,
+      "avg_start": 1225
+    }
+  ],
+  "2_56_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 540,
+      "avg_start": 622
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 600,
+      "avg_start": 925
+    },
+    {
+      "slot": "Evening",
+      "duration": 1730,
+      "avg_start": 1214
+    }
+  ],
+  "2_56_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 760,
+      "avg_start": 607
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1140,
+      "avg_start": 943
+    },
+    {
+      "slot": "Evening",
+      "duration": 2980,
+      "avg_start": 1206
+    }
+  ],
+  "2_64_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 310,
+      "avg_start": 328
+    },
+    {
+      "slot": "Morning",
+      "duration": 4660,
+      "avg_start": 576
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3100,
+      "avg_start": 933
+    },
+    {
+      "slot": "Evening",
+      "duration": 2220,
+      "avg_start": 1143
+    }
+  ],
+  "2_64_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 90,
+      "avg_start": 1170
+    }
+  ],
+  "2_64_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 230,
+      "avg_start": 540
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 650,
+      "avg_start": 862
+    },
+    {
+      "slot": "Evening",
+      "duration": 930,
+      "avg_start": 1255
+    }
+  ],
+  "2_64_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 540,
+      "avg_start": 601
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 730,
+      "avg_start": 1000
+    },
+    {
+      "slot": "Evening",
+      "duration": 2800,
+      "avg_start": 1184
+    }
+  ],
+  "2_66_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 210,
+      "avg_start": 343
+    },
+    {
+      "slot": "Morning",
+      "duration": 4170,
+      "avg_start": 572
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2580,
+      "avg_start": 953
+    },
+    {
+      "slot": "Evening",
+      "duration": 1780,
+      "avg_start": 1146
+    }
+  ],
+  "2_66_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 50,
+      "avg_start": 310
+    },
+    {
+      "slot": "Morning",
+      "duration": 50,
+      "avg_start": 550
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 180,
+      "avg_start": 900
+    },
+    {
+      "slot": "Evening",
+      "duration": 310,
+      "avg_start": 1153
+    }
+  ],
+  "2_66_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 90,
+      "avg_start": 270
+    },
+    {
+      "slot": "Morning",
+      "duration": 300,
+      "avg_start": 624
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 360,
+      "avg_start": 945
+    },
+    {
+      "slot": "Evening",
+      "duration": 910,
+      "avg_start": 1239
+    }
+  ],
+  "2_66_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 120,
+      "avg_start": 620
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 440,
+      "avg_start": 977
+    },
+    {
+      "slot": "Evening",
+      "duration": 2500,
+      "avg_start": 1177
+    }
+  ],
+  "2_67_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 200,
+      "avg_start": 315
+    },
+    {
+      "slot": "Morning",
+      "duration": 2040,
+      "avg_start": 571
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1650,
+      "avg_start": 921
+    },
+    {
+      "slot": "Evening",
+      "duration": 820,
+      "avg_start": 1137
+    }
+  ],
+  "2_67_Entertainment": [
+    {
+      "slot": "Night",
+      "duration": 170,
+      "avg_start": 305
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 150,
+      "avg_start": 810
+    },
+    {
+      "slot": "Evening",
+      "duration": 140,
+      "avg_start": 1275
+    }
+  ],
+  "2_67_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 240
+    },
+    {
+      "slot": "Morning",
+      "duration": 630,
+      "avg_start": 632
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 660,
+      "avg_start": 940
+    },
+    {
+      "slot": "Evening",
+      "duration": 420,
+      "avg_start": 1223
+    }
+  ],
+  "2_67_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 710,
+      "avg_start": 618
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 280,
+      "avg_start": 946
+    },
+    {
+      "slot": "Evening",
+      "duration": 1050,
+      "avg_start": 1175
+    }
+  ],
+  "2_68_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 2860,
+      "avg_start": 579
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1300,
+      "avg_start": 903
+    },
+    {
+      "slot": "Evening",
+      "duration": 2380,
+      "avg_start": 1153
+    }
+  ],
+  "2_68_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 250,
+      "avg_start": 516
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 610,
+      "avg_start": 974
+    },
+    {
+      "slot": "Evening",
+      "duration": 460,
+      "avg_start": 1223
+    }
+  ],
+  "2_68_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 130,
+      "avg_start": 325
+    },
+    {
+      "slot": "Morning",
+      "duration": 840,
+      "avg_start": 569
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1080,
+      "avg_start": 916
+    },
+    {
+      "slot": "Evening",
+      "duration": 2010,
+      "avg_start": 1185
+    }
+  ],
+  "2_70_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 80,
+      "avg_start": 327
+    },
+    {
+      "slot": "Morning",
+      "duration": 4160,
+      "avg_start": 569
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3190,
+      "avg_start": 990
+    },
+    {
+      "slot": "Evening",
+      "duration": 2130,
+      "avg_start": 1139
+    }
+  ],
+  "2_70_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 90,
+      "avg_start": 630
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 120,
+      "avg_start": 930
+    },
+    {
+      "slot": "Evening",
+      "duration": 440,
+      "avg_start": 1231
+    }
+  ],
+  "2_70_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 630,
+      "avg_start": 608
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1000,
+      "avg_start": 913
+    },
+    {
+      "slot": "Evening",
+      "duration": 1900,
+      "avg_start": 1137
+    }
+  ],
+  "2_72_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 130,
+      "avg_start": 360
+    },
+    {
+      "slot": "Morning",
+      "duration": 4290,
+      "avg_start": 575
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3460,
+      "avg_start": 958
+    },
+    {
+      "slot": "Evening",
+      "duration": 3160,
+      "avg_start": 1159
+    }
+  ],
+  "2_72_Social Media/Web": [
+    {
+      "slot": "Afternoon",
+      "duration": 90,
+      "avg_start": 895
+    },
+    {
+      "slot": "Evening",
+      "duration": 110,
+      "avg_start": 1220
+    }
+  ],
+  "2_72_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 640,
+      "avg_start": 562
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 810,
+      "avg_start": 921
+    },
+    {
+      "slot": "Evening",
+      "duration": 1530,
+      "avg_start": 1196
+    }
+  ],
+  "2_74_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 170,
+      "avg_start": 341
+    },
+    {
+      "slot": "Morning",
+      "duration": 9680,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 6660,
+      "avg_start": 967
+    },
+    {
+      "slot": "Evening",
+      "duration": 6380,
+      "avg_start": 1149
+    }
+  ],
+  "2_74_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 410,
+      "avg_start": 496
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 390,
+      "avg_start": 921
+    },
+    {
+      "slot": "Evening",
+      "duration": 540,
+      "avg_start": 1155
+    }
+  ],
+  "2_74_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 360,
+      "avg_start": 600
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 930,
+      "avg_start": 922
+    },
+    {
+      "slot": "Evening",
+      "duration": 1950,
+      "avg_start": 1200
+    }
+  ],
+  "2_75_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 950,
+      "avg_start": 325
+    },
+    {
+      "slot": "Morning",
+      "duration": 9290,
+      "avg_start": 585
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 7640,
+      "avg_start": 987
+    },
+    {
+      "slot": "Evening",
+      "duration": 5660,
+      "avg_start": 1159
+    }
+  ],
+  "2_75_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 220,
+      "avg_start": 537
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 460,
+      "avg_start": 928
+    },
+    {
+      "slot": "Evening",
+      "duration": 160,
+      "avg_start": 1165
+    }
+  ],
+  "2_75_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 330,
+      "avg_start": 556
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 700,
+      "avg_start": 910
+    },
+    {
+      "slot": "Evening",
+      "duration": 2160,
+      "avg_start": 1217
+    }
+  ],
+  "2_75_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 20,
+      "avg_start": 350
+    },
+    {
+      "slot": "Morning",
+      "duration": 1560,
+      "avg_start": 584
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1000,
+      "avg_start": 958
+    },
+    {
+      "slot": "Evening",
+      "duration": 2630,
+      "avg_start": 1186
+    }
+  ],
+  "2_77_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 310,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 6340,
+      "avg_start": 582
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 5290,
+      "avg_start": 954
+    },
+    {
+      "slot": "Evening",
+      "duration": 4220,
+      "avg_start": 1163
+    }
+  ],
+  "2_77_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 50,
+      "avg_start": 550
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 110,
+      "avg_start": 760
+    },
+    {
+      "slot": "Evening",
+      "duration": 270,
+      "avg_start": 1140
+    }
+  ],
+  "2_77_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 20,
+      "avg_start": 280
+    },
+    {
+      "slot": "Morning",
+      "duration": 230,
+      "avg_start": 653
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 140,
+      "avg_start": 950
+    },
+    {
+      "slot": "Evening",
+      "duration": 540,
+      "avg_start": 1255
+    }
+  ],
+  "2_77_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 300
+    },
+    {
+      "slot": "Morning",
+      "duration": 710,
+      "avg_start": 602
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 770,
+      "avg_start": 950
+    },
+    {
+      "slot": "Evening",
+      "duration": 1760,
+      "avg_start": 1168
+    }
+  ],
+  "2_79_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 700,
+      "avg_start": 316
+    },
+    {
+      "slot": "Morning",
+      "duration": 14470,
+      "avg_start": 578
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 11310,
+      "avg_start": 931
+    },
+    {
+      "slot": "Evening",
+      "duration": 9330,
+      "avg_start": 1179
+    }
+  ],
+  "2_79_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 630,
+      "avg_start": 1020
+    },
+    {
+      "slot": "Evening",
+      "duration": 690,
+      "avg_start": 1253
+    }
+  ],
+  "2_79_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 910,
+      "avg_start": 598
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1050,
+      "avg_start": 938
+    },
+    {
+      "slot": "Evening",
+      "duration": 3080,
+      "avg_start": 1256
+    }
+  ],
+  "2_79_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 1930,
+      "avg_start": 580
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3510,
+      "avg_start": 937
+    },
+    {
+      "slot": "Evening",
+      "duration": 7600,
+      "avg_start": 1204
+    }
+  ],
+  "2_80_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 560,
+      "avg_start": 327
+    },
+    {
+      "slot": "Morning",
+      "duration": 5020,
+      "avg_start": 595
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 5240,
+      "avg_start": 980
+    },
+    {
+      "slot": "Evening",
+      "duration": 1530,
+      "avg_start": 1168
+    }
+  ],
+  "2_80_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 1180,
+      "avg_start": 607
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 500,
+      "avg_start": 916
+    },
+    {
+      "slot": "Evening",
+      "duration": 740,
+      "avg_start": 1187
+    }
+  ],
+  "2_80_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 1280,
+      "avg_start": 607
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 1120,
+      "avg_start": 1040
+    },
+    {
+      "slot": "Evening",
+      "duration": 3190,
+      "avg_start": 1144
+    }
+  ],
+  "2_82_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 180,
+      "avg_start": 322
+    },
+    {
+      "slot": "Morning",
+      "duration": 5890,
+      "avg_start": 603
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 4170,
+      "avg_start": 981
+    },
+    {
+      "slot": "Evening",
+      "duration": 1280,
+      "avg_start": 1148
+    }
+  ],
+  "2_82_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 120,
+      "avg_start": 1140
+    }
+  ],
+  "2_82_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 50,
+      "avg_start": 335
+    },
+    {
+      "slot": "Morning",
+      "duration": 460,
+      "avg_start": 583
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 470,
+      "avg_start": 948
+    },
+    {
+      "slot": "Evening",
+      "duration": 1490,
+      "avg_start": 1181
+    }
+  ],
+  "2_82_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 90,
+      "avg_start": 240
+    },
+    {
+      "slot": "Morning",
+      "duration": 680,
+      "avg_start": 597
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2200,
+      "avg_start": 1020
+    },
+    {
+      "slot": "Evening",
+      "duration": 3200,
+      "avg_start": 1146
+    }
+  ],
+  "2_87_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 1160,
+      "avg_start": 333
+    },
+    {
+      "slot": "Morning",
+      "duration": 7850,
+      "avg_start": 590
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 4640,
+      "avg_start": 954
+    },
+    {
+      "slot": "Evening",
+      "duration": 1080,
+      "avg_start": 1151
+    }
+  ],
+  "2_87_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 610,
+      "avg_start": 497
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 490,
+      "avg_start": 976
+    },
+    {
+      "slot": "Evening",
+      "duration": 590,
+      "avg_start": 1202
+    }
+  ],
+  "2_87_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 1270,
+      "avg_start": 558
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2930,
+      "avg_start": 1024
+    },
+    {
+      "slot": "Evening",
+      "duration": 1710,
+      "avg_start": 1144
+    }
+  ],
+  "2_89_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 710,
+      "avg_start": 317
+    },
+    {
+      "slot": "Morning",
+      "duration": 11750,
+      "avg_start": 587
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 9980,
+      "avg_start": 954
+    },
+    {
+      "slot": "Evening",
+      "duration": 3180,
+      "avg_start": 1157
+    }
+  ],
+  "2_89_Entertainment": [
+    {
+      "slot": "Morning",
+      "duration": 60,
+      "avg_start": 450
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 100,
+      "avg_start": 1040
+    },
+    {
+      "slot": "Evening",
+      "duration": 150,
+      "avg_start": 1210
+    }
+  ],
+  "2_89_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 850,
+      "avg_start": 673
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 410,
+      "avg_start": 835
+    },
+    {
+      "slot": "Evening",
+      "duration": 840,
+      "avg_start": 1152
+    }
+  ],
+  "2_89_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 60,
+      "avg_start": 240
+    },
+    {
+      "slot": "Morning",
+      "duration": 810,
+      "avg_start": 556
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2160,
+      "avg_start": 994
+    },
+    {
+      "slot": "Evening",
+      "duration": 4480,
+      "avg_start": 1165
+    }
+  ],
+  "2_91_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 790,
+      "avg_start": 321
+    },
+    {
+      "slot": "Morning",
+      "duration": 10860,
+      "avg_start": 587
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 8760,
+      "avg_start": 948
+    },
+    {
+      "slot": "Evening",
+      "duration": 2160,
+      "avg_start": 1163
+    }
+  ],
+  "2_91_Social Media/Web": [
+    {
+      "slot": "Afternoon",
+      "duration": 360,
+      "avg_start": 966
+    },
+    {
+      "slot": "Evening",
+      "duration": 1120,
+      "avg_start": 1169
+    }
+  ],
+  "2_91_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 80,
+      "avg_start": 250
+    },
+    {
+      "slot": "Morning",
+      "duration": 1030,
+      "avg_start": 636
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2710,
+      "avg_start": 1002
+    },
+    {
+      "slot": "Evening",
+      "duration": 1740,
+      "avg_start": 1147
+    }
+  ],
+  "2_92_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 120,
+      "avg_start": 332
+    },
+    {
+      "slot": "Morning",
+      "duration": 6100,
+      "avg_start": 581
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 4890,
+      "avg_start": 966
+    },
+    {
+      "slot": "Evening",
+      "duration": 1210,
+      "avg_start": 1163
+    }
+  ],
+  "2_92_Entertainment": [
+    {
+      "slot": "Afternoon",
+      "duration": 10,
+      "avg_start": 730
+    }
+  ],
+  "2_92_Social Media/Web": [
+    {
+      "slot": "Night",
+      "duration": 30,
+      "avg_start": 330
+    },
+    {
+      "slot": "Morning",
+      "duration": 180,
+      "avg_start": 485
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 340,
+      "avg_start": 964
+    },
+    {
+      "slot": "Evening",
+      "duration": 1290,
+      "avg_start": 1238
+    }
+  ],
+  "2_92_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 30,
+      "avg_start": 360
+    },
+    {
+      "slot": "Morning",
+      "duration": 1310,
+      "avg_start": 608
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2870,
+      "avg_start": 946
+    },
+    {
+      "slot": "Evening",
+      "duration": 4140,
+      "avg_start": 1150
+    }
+  ],
+  "2_93_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 180,
+      "avg_start": 320
+    },
+    {
+      "slot": "Morning",
+      "duration": 4330,
+      "avg_start": 590
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3210,
+      "avg_start": 955
+    },
+    {
+      "slot": "Evening",
+      "duration": 900,
+      "avg_start": 1146
+    }
+  ],
+  "2_93_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 60,
+      "avg_start": 1150
+    }
+  ],
+  "2_93_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 30,
+      "avg_start": 710
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 240,
+      "avg_start": 930
+    },
+    {
+      "slot": "Evening",
+      "duration": 350,
+      "avg_start": 1231
+    }
+  ],
+  "2_93_TV/Youtube": [
+    {
+      "slot": "Night",
+      "duration": 30,
+      "avg_start": 350
+    },
+    {
+      "slot": "Morning",
+      "duration": 240,
+      "avg_start": 562
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2140,
+      "avg_start": 1007
+    },
+    {
+      "slot": "Evening",
+      "duration": 2130,
+      "avg_start": 1140
+    }
+  ],
+  "2_95_Eating/Leisure": [
+    {
+      "slot": "Night",
+      "duration": 220,
+      "avg_start": 340
+    },
+    {
+      "slot": "Morning",
+      "duration": 6240,
+      "avg_start": 602
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 3970,
+      "avg_start": 968
+    },
+    {
+      "slot": "Evening",
+      "duration": 380,
+      "avg_start": 1143
+    }
+  ],
+  "2_95_Entertainment": [
+    {
+      "slot": "Evening",
+      "duration": 60,
+      "avg_start": 1140
+    }
+  ],
+  "2_95_Social Media/Web": [
+    {
+      "slot": "Morning",
+      "duration": 60,
+      "avg_start": 570
+    },
+    {
+      "slot": "Evening",
+      "duration": 270,
+      "avg_start": 1190
+    }
+  ],
+  "2_95_TV/Youtube": [
+    {
+      "slot": "Morning",
+      "duration": 740,
+      "avg_start": 638
+    },
+    {
+      "slot": "Afternoon",
+      "duration": 2940,
+      "avg_start": 972
+    },
+    {
+      "slot": "Evening",
+      "duration": 3490,
+      "avg_start": 1133
+    }
+  ]
+}

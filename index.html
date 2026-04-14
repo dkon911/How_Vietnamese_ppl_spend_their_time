@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Report: Vietnam Consumer Behavior 2022</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #2563eb;
+            --dark: #0f172a;
+            --bg: #f8fafc;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Inter', sans-serif; background-color: var(--bg); color: var(--dark); line-height: 1.6; }
+        header {
+            background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+            color: white; padding: 100px 20px; text-align: center;
+        }
+        .container { max-width: 1200px; margin: -60px auto 50px; padding: 0 20px; }
+        .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 30px; }
+        .card { background: white; padding: 40px; border-radius: 20px; shadow: 0 10px 30px rgba(0,0,0,0.05); margin-bottom: 30px; }
+        h2 { font-size: 1.8rem; margin-bottom: 25px; color: #1e293b; border-left: 5px solid var(--primary); padding-left: 15px; }
+        .insight-box { background: #f1f5f9; padding: 25px; border-radius: 12px; margin-bottom: 20px; }
+        .insight-box h3 { color: var(--primary); font-size: 1.1rem; margin-bottom: 10px; }
+        .btn {
+            display: inline-block; background: var(--primary); color: white; padding: 18px 40px;
+            border-radius: 12px; text-decoration: none; font-weight: 700; margin-top: 25px;
+            transition: all 0.3s;
+        }
+        .btn:hover { transform: translateY(-3px); box-shadow: 0 15px 30px rgba(37, 99, 235, 0.3); }
+        .sidebar-card { background: var(--dark); color: white; padding: 35px; border-radius: 20px; }
+        @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Tối ưu hóa Chiến lược Marketing dựa trên hành vi Người tiêu dùng Việt</h1>
+    <p style="margin-top:15px; opacity:0.8;">Phân tích Data-Driven để giảm chi phí quảng cáo và tăng tỷ lệ chuyển đổi (Conversion Rate)</p>
+</header>
+
+<div class="container">
+    <div class="grid">
+        <div class="main">
+            <div class="card">
+                <h2>📊 Bài toán Kinh doanh & Giải pháp</h2>
+                <p>Nhiều doanh nghiệp FMCG và E-commerce đang lãng phí ngân sách quảng cáo do không nắm bắt được nhịp sinh hoạt của khách hàng. Dự án này cung cấp một công cụ phân tích để <strong>chọn thời điểm vàng</strong> cho các chiến dịch Marketing.</p>
+                
+                <div style="margin-top:30px;">
+                    <div class="insight-box">
+                        <h3>⚡ Tối ưu hóa Flash Sales (E-commerce)</h3>
+                        <p>Dữ liệu chỉ ra 12:00 - 13:00 là "Khung giờ vàng" cho Flash Sales trên di động, đặc biệt tại Hà Nội và TP.HCM khi người đi làm dành phần lớn thời gian nghỉ trưa để lướt Web.</p>
+                    </div>
+                    <div class="insight-box">
+                        <h3>📱 Chiến lược TV/Social Media Kết hợp</h3>
+                        <p>Thời điểm 20:00 là lúc hoạt động TV/Youtube đạt đỉnh trên mọi nhóm tuổi, tạo cơ hội cho các chiến dịch quảng bá thương hiệu đa kênh (Omni-channel).</p>
+                    </div>
+                    <div class="insight-box">
+                        <h3>📍 Địa phương hóa Chiến dịch (Localization)</h3>
+                        <p>Người dân vùng nông thôn bắt đầu ngày mới sớm hơn 1 giờ so với đô thị, yêu cầu các chiến dịch buổi sáng phải được đẩy sớm hơn để đạt hiệu quả tối đa.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <div class="sidebar-card">
+                <h3 style="margin-bottom:20px;">🎬 Interactive Report</h3>
+                <p>Xem luồng di chuyển hoạt động của 100,000 khách hàng trong 24 giờ để đưa ra quyết định Marketing chính xác nhất.</p>
+                <a href="VN-timeUsage/movingpoints.html" target="_blank" class="btn">MỞ BÁO CÁO TƯƠNG TÁC ➔</a>
+            </div>
+
+            <div class="card" style="margin-top:30px;">
+                <h3>🛠 Data Methodology</h3>
+                <ul style="margin-left:20px; margin-top:15px;">
+                    <li>Python/Pandas (Data Cleaning)</li>
+                    <li>D3.js (Behavioral Flow Modeling)</li>
+                    <li>Tkinter (Strategy Engine Tool)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer style="text-align: center; padding: 40px; color: #94a3b8;">
+    <p>&copy; 2024 Project by [Tên của bạn] | Data Analyst Candidate</p>
+</footer>
+
+</body>
+</html>
