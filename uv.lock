@@ -1,0 +1,8 @@
+version = 1
+revision = 1
+requires-python = ">=3.11"
+
+[[package]]
+name = "how-vietnamese-ppl-spend-their-time"
+version = "0.1.0"
+source = { virtual = "." }
