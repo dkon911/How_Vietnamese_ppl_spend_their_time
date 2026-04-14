@@ -1,6 +1,6 @@
 # How Vietnamese People Spend Their Time 
 
-<video autoplay loop muted controls src="https://github.com/dkon911/How_Vietnamese_ppl_spend_their_time/blob/cf4414dd62a13e5458a8b829588ec2cfb794369e/time-usage.gif" width="100%"></video>
+[▶️ How Vietnamese People Spend Their Time](time-usage.mp4)
 
 ## 🌟 Overview
 This project analyzes the **Vietnam Time-use Survey 2022** dataset to uncover patterns in how different demographics in Vietnam allocate their daily time. From work-life balance to digital consumption (TV/Social Media), this study provides a data-driven look into the daily lives of Vietnamese citizens.
